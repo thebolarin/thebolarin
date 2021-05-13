@@ -8,6 +8,7 @@
 - ExpressJs(Full Stack applications, RestFUL APIs)
 - Laravel - Microservices
 - Redis (cache, queues)
+- Kafka and RabbitMQ
 - MySQL and Database design principles
 - S3 (file storage)
 - DevOps
