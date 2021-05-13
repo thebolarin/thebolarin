@@ -7,8 +7,7 @@
 - Nodejs(HTTP, File reading) - Microservices
 - ExpressJs(Full Stack applications, RestFUL APIs)
 - Laravel - Microservices
-- Redis (cache, queues)
-- Kafka and RabbitMQ
+- Redis (cache, queues),Kafka and RabbitMQ
 - MySQL and Database design principles
 - S3 (file storage)
 - DevOps
@@ -19,13 +18,9 @@
 
 All with solid production experiences
 
-
 ### Deployment and Server Configuration
 
 - Linux Servers
-- Apache Configuration
-- Nginx Configuration
-- SSL configuration
 - Jenkins Configuration
 - CI/CD with Git
 
