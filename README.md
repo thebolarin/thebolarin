@@ -5,7 +5,7 @@
 ### Nodejs and Laravel is my core strength
 
 - Nodejs(HTTP, File reading) - Microservices
-- ExpressJs(Full Stack applications, RestFUL APIs)
+- ExpressJs(Full Stack applications, RestFUL APIs), NestJs
 - Laravel - Microservices
 - Redis (cache, queues),Kafka and RabbitMQ
 - MySQL and Database design principles
