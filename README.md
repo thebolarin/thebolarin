@@ -7,6 +7,7 @@
 - Nodejs(HTTP, File reading) - Microservices
 - ExpressJs(Full Stack applications, RestFUL APIs), NestJs
 - Laravel - Microservices
+- Ruby on Rails
 - Redis (cache, queues),Google Pub/Sub, Kafka and RabbitMQ
 - MySQL and Database design principles
 - S3 (file storage)
