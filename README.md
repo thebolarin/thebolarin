@@ -8,6 +8,7 @@
 - ExpressJs(Full Stack applications, RestFUL APIs), NestJs
 - Laravel - Microservices
 - Ruby on Rails
+- Rust
 - Redis (cache, queues),Google Pub/Sub, Kafka and RabbitMQ
 - MySQL and Database design principles
 - S3 (file storage)
