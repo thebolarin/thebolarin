@@ -2,7 +2,7 @@
 
 ## I'm Moses, a Software Engineer 🖥
 
-### Nodejs and Laravel is my core strength
+### Nodejs, Ruby on Rails and Laravel is my core strength
 
 - Nodejs(HTTP, File reading) - Microservices
 - ExpressJs(Full Stack applications, RestFUL APIs), NestJs
